@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+}
+.box1{
+    background-color: black;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box2{
+    background-color: beige;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box3{
+    background-color: red;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box4{
+    background-color: fuchsia;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box5{
+    background-color: forestgreen;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box6{
+    background-color: lightgreen;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box7{
+    background-color: lightsalmon;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box8{
+    background-color: pink;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box9{
+    background-color: orange;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box10{
+    background-color: orangered;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box11{
+    background-color: purple;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box12{
+    background-color: violet;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box13{
+    background-color: yellow;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box14{
+    background-color: tomato;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box15{
+    background-color: blue;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box16{
+    background-color: turquoise;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box17{
+    background-color: green;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box18{
+    background-color: gold;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box19{
+    background-color: cyan;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
+.box20{
+    background-color: navy;
+    width: 5%;
+    height: 5vh;
+    float:left;
+}
