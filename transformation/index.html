@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Monaco Grand Prix</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css"/> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <!--This is a link to your external .js file. Note that you will have to update link so it goes to your specific js file.-->
+  <script src="js/script.js"></script>
+  <!--This is a link to the jQuery library that's hosted online.-->
+  <script>
+    $(document).ready(function(){
+      $("button").click(function(){
+        $("#invisible").toggle();
+      });
+    });
+  </script>
+</head>
+<body>
+    <p id="que">Who won the 2024 Monaco Grand Prix?</h1>
+    <p id="invisible">Charles Leclerc - Ferrari</p>
+    <button id="visible">*click to reveal</button>
+</body>
+</html>
